@@ -1,0 +1,22 @@
+{
+	"name": "Gatekeeper Middleware",
+	"version": "0.0.1",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4",
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jmpainter/gatekeeper-middleware"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
